@@ -10,7 +10,8 @@ Welcome to **Web Games Hub**, your ultimate destination for fun and engaging web
 - **Cross-Platform Support**: Play directly on any device with a web browser—no downloads required!  
 - **User-Friendly Interface**: Enjoy a sleek and intuitive design for seamless navigation.  
 - **Regular Updates**: Stay tuned for new games added frequently.  
-- **Multiplayer Options**: Connect with friends and challenge them in real-time.  
+- **Multiplayer Options**: Connect with friends and challenge them in real-time.
+- ---
 
 ## How to Use  
 1. Visit the website at **[tps://Prajeesh-A.github.io/GameeS]**.  
